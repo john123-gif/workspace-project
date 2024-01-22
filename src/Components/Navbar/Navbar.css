@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@200 & display=swap');
 
+
 .navigation-bar{
     font-family: 'Montserrat', sans-serif;
     display: flex;
@@ -48,5 +49,10 @@
     height: 2.5rem;
     border: none;
     background-color: #E5732A;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 /* *{outline: 1px solid white;} */
