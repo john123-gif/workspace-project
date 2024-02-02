@@ -4,6 +4,7 @@ import { PortfolioPage } from './Components/PortfolioPage/PortfolioPage'
 import { AboutPage } from './Components/AboutPage/AboutPage'
 import { StepsPage } from './Components/StepsPage/StepsPage'
 import './App.css'
+import { PartnersPage } from './Components/PartnersPage/PartnersPage'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <PortfolioPage />
       <AboutPage />
       <StepsPage />
+      <PartnersPage />
     </div>
   )
 }

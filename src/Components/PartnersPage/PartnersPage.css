@@ -1,0 +1,36 @@
+.partners-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 25rem;
+}
+.partners-page > .header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    height: 9rem;
+}
+.partners-page > .header > h3{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px;
+    text-transform: capitalize;
+    color: #285185;
+}
+.partners-page > .header > p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+}
+.partners-page > .partners{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 100%;
+    height: 7rem;
+}
