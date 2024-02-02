@@ -5,6 +5,7 @@ import { AboutPage } from './Components/AboutPage/AboutPage'
 import { StepsPage } from './Components/StepsPage/StepsPage'
 import './App.css'
 import { PartnersPage } from './Components/PartnersPage/PartnersPage'
+import { InvestPage } from './Components/InvestPage/InvestPage'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <AboutPage />
       <StepsPage />
       <PartnersPage />
+      <InvestPage />
     </div>
   )
 }
