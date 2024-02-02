@@ -24,6 +24,7 @@ export const PortfolioPage = () => {
                     <img src={portfolio1} alt="" />
                    <span>
                         <h4>Downton Abbey</h4>
+                        <img src={viewarrow} alt="" />
                         <p><b>Funding Goal:</b> 3,500,000 GBP</p>
                    </span>
                 </div>
@@ -32,6 +33,7 @@ export const PortfolioPage = () => {
                     <img src={portfolio2} alt="" />
                     <span>
                         <h4>Charity Villa</h4>
+                        <img src={viewarrow} alt="" />
                         <p><b>Funding Goal:</b> 3,500,000 GBP</p>
                     </span>
                 </div>
@@ -40,6 +42,7 @@ export const PortfolioPage = () => {
                     <img src={portfolio3} alt="" />
                     <span>
                         <h4>Downton Abbey</h4>
+                        <img src={viewarrow} alt="" />
                         <p><b>Funding Goal:</b> 3,500,000 GBP</p>
                     </span>
                 </div>
