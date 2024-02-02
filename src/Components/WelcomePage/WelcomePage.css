@@ -1,21 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@200 & display=swap');
  
-*{
-    margin: 0;
-    padding: 0;
-}
+
 .welcome-page{
-    padding-top: 3rem;
     font-family: 'Bebas Neue', sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    padding-top: 3rem;
+    margin-top: 5rem;
     width: 100%;
-    height: 47rem;
+    height: 43rem;
     background: 
-    url('../../assets/homepage-image.png') 30px 295px/89rem 28rem,
+    url('../../assets/homepage-image.png') 20px 295px/89rem 28rem,
     url('../../assets/Ellipse.png') 0 25rem/25rem 28rem no-repeat;
     background-repeat: no-repeat;
     background-color: #285185;
@@ -61,4 +59,3 @@
     height: 1.2rem;
     text-align: center;
 }
-/* *{outline: 1px solid white;} */

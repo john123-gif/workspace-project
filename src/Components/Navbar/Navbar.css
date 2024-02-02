@@ -7,6 +7,8 @@
     gap: 27rem;
     align-items: center;
     justify-content: center;
+    position: fixed;
+    top: 0;
     width: 100%;
     height: 5rem;
     background-color: #285185;
@@ -50,9 +52,3 @@
     border: none;
     background-color: #E5732A;
 }
-.sticky{
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-/* *{outline: 1px solid white;} */
