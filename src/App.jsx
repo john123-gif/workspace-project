@@ -1,6 +1,7 @@
 import { Navbar } from './Components/Navbar/Navbar'
 import { WelcomePage } from './Components/WelcomePage/WelcomePage'
 import { PortfolioPage } from './Components/PortfolioPage/PortfolioPage'
+import { AboutPage } from './Components/AboutPage/AboutPage'
 import './App.css'
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <WelcomePage />
       <PortfolioPage />
+      <AboutPage />
     </div>
   )
 }
