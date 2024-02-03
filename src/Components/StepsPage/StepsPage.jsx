@@ -1,4 +1,3 @@
-import React from "react";
 import stepshouse from '../../assets/steps-page-image.png'
 import './StepsPage.css'
 

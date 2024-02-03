@@ -1,9 +1,8 @@
-import React from "react";
-import './InvestPage.css'
 import viewarrow from '../../assets/view-arrow.svg'
 import handshake from '../../assets/handshake.png'
 import certify from '../../assets/certify.png'
 import dollarhouse from '../../assets/dollarhouse.png'
+import './InvestPage.css'
 
 export const InvestPage = () => {
     return (

@@ -1,10 +1,9 @@
-import React from "react";
-import './PartnersPage.css'
 import peer2peer from '../../assets/peer2peer.png'
 import ultimatefinance from '../../assets/ultimate-finance.png'
 import wave from '../../assets/wave.png'
 import finanacialtimes from '../../assets/financial-time.png'
 import fca from '../../assets/fca.png'
+import './PartnersPage.css'
 
 export const PartnersPage = () => {
     return (

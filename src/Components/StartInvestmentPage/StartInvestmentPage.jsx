@@ -1,6 +1,5 @@
-import React from 'react'
-import './StartInvestmentPage.css'
 import viewarrow  from '../../assets/view-arrow.svg'
+import './StartInvestmentPage.css'
 
 export const StartInvestmentPage = () => {
     return(

@@ -1,4 +1,3 @@
-import React from 'react';
 import navArrow from '../../assets/arrow-image.png';
 import './Navbar.css'
 
