@@ -7,6 +7,7 @@ import './App.css'
 import { PartnersPage } from './Components/PartnersPage/PartnersPage'
 import { InvestPage } from './Components/InvestPage/InvestPage'
 import { StartInvestmentPage } from './Components/StartInvestmentPage/StartInvestmentPage'
+import { Footer } from './Components/Footer/Footer'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <PartnersPage />
       <InvestPage />
       <StartInvestmentPage />
+      <Footer />
     </div>
   )
 }
