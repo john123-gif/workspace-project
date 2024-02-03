@@ -6,7 +6,6 @@
     width: 100%;
     height: 47rem;
 }
-
 .steps-div1, .steps-div2{
     display: flex;
     flex-direction: column;

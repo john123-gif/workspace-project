@@ -1,0 +1,46 @@
+.footer{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #285185;
+    display: flex;
+    letter-spacing: 1px;
+    font-size: 17px;
+    gap: 1rem;
+    color: #FFFFFF;
+    font-weight: 300;
+    justify-content: center;
+    align-items: flex-start;
+    height: 20rem;
+    width: 100%;
+}
+.footer > .v-rect{
+    margin: 4.5rem 2rem 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    width: 7rem;
+    height: 10rem;
+}
+.footer > .v-rect > a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 300;
+    margin-bottom: 0.6rem;
+}
+.footer > .h-rect{
+    margin-top: 4.5rem;
+    display: flex;
+    gap: 0.3rem;
+    flex-direction: column;
+    width: 14rem;
+    height: 7rem;
+}
+.footer > .explore{
+    margin-left: 13rem;
+}
+.footer-header{
+    color: #E5732A;
+    font-weight: 400;
+}
+.number{
+    text-decoration: underline;
+}

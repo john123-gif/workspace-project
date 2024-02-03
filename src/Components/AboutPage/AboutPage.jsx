@@ -1,4 +1,3 @@
-import React from "react"
 import viewarrow from '../../assets/view-arrow.svg'
 import './AboutPage.css'
 
