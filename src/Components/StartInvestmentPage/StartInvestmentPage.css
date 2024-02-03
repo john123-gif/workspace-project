@@ -1,0 +1,47 @@
+.start-investment-page{
+    display: flex;
+    justify-content: center;
+    background: 
+    url('../../assets/start-building.png') 0 14rem no-repeat,
+    url('../../assets/start-arrow-b.png') -1.5rem 40rem / 10rem 10rem no-repeat,
+    url('../../assets/start-arrow-o.png') 49rem 20.2rem / 10rem 10rem no-repeat;
+    width: 100%;
+    height: 46rem;
+}
+.start-investment-page > .header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    height: 25rem;
+}
+.start-investment-page > .header h2{
+    font-family: 'Bebas Neue', sans-serif;
+    color: #285185;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 62px;
+    line-height: 65px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.start-investment-page > .header > a{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    align-items: center;
+    margin: 0 auto 0 auto;
+    gap: 0.3rem; 
+    font-weight: 400;
+    color: #E5732A;
+    margin-top: 1.8rem;
+    font-size: 16px;
+    text-decoration: none;
+    width: 11rem;
+    height: 1.2rem;
+    text-align: center;
+}
+.start-investment-page > .header > a > img{
+    width: 0.8rem;
+    height: 0.8rem;
+}
