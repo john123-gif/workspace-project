@@ -9,7 +9,7 @@
 ## Links
 
 - Solution URL: https://github.com/john123-gif/workspace-project
-- Live Site URL: https://workspace-project.netlify.app
+- Live Link: https://workspace-project.netlify.app
 
 
 ## My process
